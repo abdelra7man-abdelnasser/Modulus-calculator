@@ -26,11 +26,21 @@ Built with Python 3 and Tkinter, packaged into an executable for Windows.
 
 🖥️ Available as .exe (for Windows users) or .py (cross-platform).
 
+🛠️ Build Instructions
+======================
+To make your own .exe:
+
+**pip install pyinstaller
+
+**pyinstaller --onefile --windowed --icon=icon.ico modulus_calculator.py
+
+Executable will appear in dist/.
+
 🚀 Usage
 =======================================
 Option 1: Run the EXE (Windows)
 
-Download the latest release from the Releases page
+Download the latest release from [Releases page](../../Releases)
 .
 
 Double-click modulus_calculator.exe.
