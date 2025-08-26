@@ -40,8 +40,7 @@ Executable will appear in dist/.
 =======================================
 Option 1: Run the EXE (Windows)
 
-Download the latest release from [Releases page](Modulus-calculator/Releases)
-.
+Download the latest release from [Releases page](Modulus-calculator/modulus-calculator.exe).
 
 Double-click modulus_calculator.exe.
 
